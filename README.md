@@ -11,12 +11,14 @@
 💻 Tech Stack:
 
 -Languages: Python,SQL.
+<br>
 -Operating Systems & Scripting: Linux,Unix and Shell.
+<br>
 -Technologies & Tools: AWS, EC2, DynamoDB, S3, SQS, Lambda, Athena, Elasticsearch,PySpark, Hive, Kubernetes,
  Docker, Splunk, Kafka,Hadoop,MapReduce,CI/CD,ETL(Extract,Transform,Load) pipelines.
 
 
-- 🧑🏻‍🏫 I am currenly learning
+- 🧑🏻‍🏫 I am currently learning
    - Exporing Modern Data Stack (dbt, Airbyte, Databricks)
    - Azure Cloud (Already worked with AWS & GCP)
    - How to architectect better data system 
