@@ -1,6 +1,8 @@
 # Hello, I am Palaksh 👋
-
-## Thanks for stopping by. Here's a little bit about myself...
+<h3 align="left">Experienced in Python, SQL and ETL tools, of 2 years I excel at architecting data pipelines that simplify operations and increase efficiency. From designing and implementing ETL data pipelines to ensuring data quality and integrity, I thrive in dynamic environments where I can apply my technical expertise to solve complex challenges.</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Mkb6pMXJ7XeZY7fLonG9XA.gif">
+<br>
+<h3 align="left">Thanks for stopping by. Here's a little bit about myself...</h3>
 
 
 - 😄 My pronouns are: He/His/Him
