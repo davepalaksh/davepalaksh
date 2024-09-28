@@ -1,6 +1,6 @@
 <div align="right" >
    
-   <H1>Hi, I'm Pranshu!</H1>
+   <H1>Hi, I'm Palaksh!</H1>
 
 </div>
 
