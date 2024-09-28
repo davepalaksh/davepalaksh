@@ -1,13 +1,12 @@
 <div align="right" >
    
-   <H1>Hi, I'm Palaksh!</H1>
+   <H1>Hi, I'm Palaksh!✌️</H1>
 
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*7QLoLxS_7qWDZe4BkMISzA.gif">
 <br>
 <h3 align="left">Thanks for stopping by. Here's a little bit about myself...</h3>
-
 
 - 😄 My pronouns are: He/His/Him
 - 🔭 I’m currently working as a data engineer.
