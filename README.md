@@ -33,4 +33,6 @@
   - [Executive PG Data Engineering](https://www.credential.net/bf15993c-6580-40d9-bd79-153d22e0371f#gs.bqqyxa)
     
 If you want to talk to me or want to discuss something then feel free to ping on my mail.
+
+<img align="left" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
   
