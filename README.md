@@ -1,41 +1,18 @@
 <div align="right" >
    
-   <H1>Hi, I'm Palaksh!✌️</H1>
+   <H1>Hi, I'm Palaksh ✌️!</H1>
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*7QLoLxS_7qWDZe4BkMISzA.gif">
-<br>
-<h3 align="left">Thanks for stopping by. Here's a little bit about myself...</h3>
+## 📊 Last week so far
+<!--START_SECTION:waka-->
 
-- 😄 My pronouns are: He/His/Him
-- 🔭 I’m currently working as a data engineer.
-   - 👯 I'm always open for freelance gigs and contract based opportunitites
-   - 🤘 You can find various data engineering projects on my profile.
+```txt
+No activity tracked
+```
 
-💻 Tech Stack:
+<!--END_SECTION:waka-->
 
--Languages: Python,SQL.
-<br>
--Operating Systems & Scripting: Linux,Unix and Shell.
-<br>
--Technologies & Tools: AWS, EC2, DynamoDB, S3, SQS, Lambda, Athena, Elasticsearch,PySpark, Hive, Kubernetes,
- Docker, Splunk, Kafka,Hadoop,MapReduce,CI/CD,ETL(Extract,Transform,Load) pipelines.
-
-
-- 🧑🏻‍🏫 I am currently learning
-   - Exporing Modern Data Stack (dbt, Airbyte, Databricks)
-   - Azure Cloud (Already worked with AWS & GCP)
-   - How to architectect better data system 
-
-- 📫 Here's how you can reach me: palakshdave@gmail.com | [LinkedIn](https://www.linkedin.com/in/palakshdave/) | [Twitter](https://x.com/homxsapien)
-
-- My Certifications and Courses
-  - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-gb/users/palakshdave-4007/credentials/3919d96789c094b1?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-  - [Spark and Python for Big Data with PySpark](https://www.udemy.com/certificate/UC-d1b9e886-98d6-4cd4-83e5-a3b2887a4895/)
-  - [Executive PG Data Engineering](https://www.credential.net/bf15993c-6580-40d9-bd79-153d22e0371f#gs.bqqyxa)
-    
-If you want to talk to me or want to discuss something then feel free to ping on my mail.
+Check out my [website](https://palaksh.vercel.app)
 
 <img align="left" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
-  
